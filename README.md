@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shreyansh Gupta
 - PortFolio - https://shreyansh-gupta.vercel.app
-- 👀 I’m interested and looking to collaborate in making React Full Stack Projects
+- 👀 I’m an Enthusiastic Web Developer and a Problem Solver in JAVA.
 - 📫 How to reach me - mail at guptashreyansh2048@gmail.com
-
